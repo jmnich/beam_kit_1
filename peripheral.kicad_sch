@@ -4655,6 +4655,16 @@
 	)
 	(wire
 		(pts
+			(xy 34.29 119.38) (xy 31.75 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "028545e6-4b61-4234-be32-e4b9d90c85cd")
+	)
+	(wire
+		(pts
 			(xy 184.15 99.06) (xy 184.15 100.33)
 		)
 		(stroke
@@ -4692,16 +4702,6 @@
 			(type default)
 		)
 		(uuid "0771ff30-79f7-4a41-84cb-ff0c8ff7da88")
-	)
-	(wire
-		(pts
-			(xy 31.75 111.76) (xy 34.29 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0aad0f0a-c844-4e76-9858-8b232340436c")
 	)
 	(wire
 		(pts
@@ -4932,16 +4932,6 @@
 			(type default)
 		)
 		(uuid "25ef1256-a300-4f0c-b5f8-56561cce2de4")
-	)
-	(wire
-		(pts
-			(xy 31.75 119.38) (xy 34.29 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26ac5b67-be24-48de-b3d8-6c75219c7b70")
 	)
 	(wire
 		(pts
@@ -6512,6 +6502,16 @@
 			(type default)
 		)
 		(uuid "e9946434-40f4-4e07-9170-5613cc8f5ae7")
+	)
+	(wire
+		(pts
+			(xy 34.29 111.76) (xy 31.75 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea4d66d7-2f73-4000-9e04-ae915065b86d")
 	)
 	(wire
 		(pts
@@ -8201,7 +8201,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x04_Odd_Even")
-		(at 39.37 114.3 0)
+		(at 41.91 114.3 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8209,7 +8210,7 @@
 		(dnp no)
 		(uuid "2f43b16c-c300-4a1b-a798-ee0ef838cd80")
 		(property "Reference" "J21"
-			(at 40.386 108.966 0)
+			(at 40.894 108.966 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8217,7 +8218,7 @@
 			)
 		)
 		(property "Value" "NRF_24_socket"
-			(at 41.148 122.428 0)
+			(at 40.132 122.428 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8225,7 +8226,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical"
-			(at 39.37 114.3 0)
+			(at 41.91 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8234,7 +8235,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 114.3 0)
+			(at 41.91 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8243,7 +8244,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 39.37 114.3 0)
+			(at 41.91 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11297,7 +11298,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Wuerth_MAPI-3020"
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder"
 			(at 124.46 160.02 0)
 			(effects
 				(font
@@ -11306,7 +11307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vls3012hbx_en.pdf"
+		(property "Datasheet" ""
 			(at 124.46 160.02 0)
 			(effects
 				(font
@@ -11324,7 +11325,7 @@
 				(hide yes)
 			)
 		)
-		(property "M" "TDK"
+		(property "M" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 124.46 160.02 90)
 			(effects
 				(font
@@ -11333,7 +11334,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "VLS3015ET-4R7M"
+		(property "MPN" "CMP321609UD4R7MT"
+			(at 124.46 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C139250"
 			(at 124.46 160.02 90)
 			(effects
 				(font
@@ -13251,7 +13261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 68.58 186.69 0)
 			(effects
 				(font
