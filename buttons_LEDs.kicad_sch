@@ -3316,7 +3316,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0073f5cd-25d9-4e92-af3e-0759b68fd4f5")
-		(property "Reference" "D22"
+		(property "Reference" "D19"
 			(at 212.09 33.02 0)
 			(effects
 				(font
@@ -3401,7 +3401,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D22")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -3643,7 +3643,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0cb11bd0-a75c-4da6-b226-09f97367c25e")
-		(property "Reference" "D20"
+		(property "Reference" "D26"
 			(at 171.45 33.02 0)
 			(effects
 				(font
@@ -3728,7 +3728,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D20")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -4103,7 +4103,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "161bb62b-11cb-4007-a0bb-9b3e166cce91")
-		(property "Reference" "D24"
+		(property "Reference" "D27"
 			(at 252.73 33.02 0)
 			(effects
 				(font
@@ -4188,7 +4188,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D24")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -5348,7 +5348,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "32074be5-a652-4d2f-8e1b-11d4b2bcafb8")
-		(property "Reference" "D28"
+		(property "Reference" "D24"
 			(at 151.13 80.01 0)
 			(effects
 				(font
@@ -5433,7 +5433,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D28")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -6005,7 +6005,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3b897de0-8252-4550-9698-a28ccc70d4c6")
-		(property "Reference" "D27"
+		(property "Reference" "D21"
 			(at 212.09 80.01 0)
 			(effects
 				(font
@@ -6090,7 +6090,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D27")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -7426,7 +7426,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66a9ac6e-6175-41f1-8f2e-ea832fcda98b")
-		(property "Reference" "D21"
+		(property "Reference" "D30"
 			(at 191.77 33.02 0)
 			(effects
 				(font
@@ -7511,7 +7511,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D21")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -7591,7 +7591,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6a7904dc-e459-499d-b0c6-3ce76d44c673")
-		(property "Reference" "D30"
+		(property "Reference" "D28"
 			(at 171.45 80.01 0)
 			(effects
 				(font
@@ -7676,7 +7676,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D30")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -7691,7 +7691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6c75ba38-6746-40b1-9e67-7611a8cc6c0f")
-		(property "Reference" "D26"
+		(property "Reference" "D20"
 			(at 130.81 80.01 0)
 			(effects
 				(font
@@ -7776,7 +7776,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D26")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -7791,7 +7791,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6f2d6986-17d8-4fef-a9aa-9fc8b0146880")
-		(property "Reference" "D31"
+		(property "Reference" "D29"
 			(at 252.73 80.01 0)
 			(effects
 				(font
@@ -7876,7 +7876,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D31")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -8641,7 +8641,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8bb6f0f4-5cda-4084-a260-6171e8d1c984")
-		(property "Reference" "D25"
+		(property "Reference" "D31"
 			(at 273.05 33.02 0)
 			(effects
 				(font
@@ -8726,7 +8726,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D25")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -9347,7 +9347,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4edbdc6-1a9a-426f-b448-50cbe7be4484")
-		(property "Reference" "D29"
+		(property "Reference" "D25"
 			(at 232.41 80.01 0)
 			(effects
 				(font
@@ -9432,7 +9432,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D29")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -10778,7 +10778,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dca227d0-12eb-4836-8086-6c69a3553b44")
-		(property "Reference" "D19"
+		(property "Reference" "D22"
 			(at 151.13 33.02 0)
 			(effects
 				(font
@@ -10863,7 +10863,7 @@
 		(instances
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
-					(reference "D19")
+					(reference "D22")
 					(unit 1)
 				)
 			)
