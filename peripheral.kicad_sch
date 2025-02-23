@@ -6783,6 +6783,28 @@
 		)
 		(uuid "4781dc1f-ca97-49b1-b7c3-69220a932d93")
 	)
+	(text "TODO: i2c address 0x3c"
+		(exclude_from_sim no)
+		(at 243.332 17.018 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5e68302e-768b-40e9-9320-c7a121a35e1f")
+	)
+	(text "Sensor address: \n0x44 (0x45 ADDR=1)\n\n"
+		(exclude_from_sim no)
+		(at 263.652 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "69bfd23a-56da-417a-b8a4-6b8990f20b4e")
+	)
 	(text "Sonar module"
 		(exclude_from_sim no)
 		(at 23.876 148.59 0)
@@ -6793,6 +6815,17 @@
 			(justify left bottom)
 		)
 		(uuid "78dead9e-44e9-4286-bb47-d48d0e37965f")
+	)
+	(text "Sensor address: \n001100xb (x=JP5)\n\n"
+		(exclude_from_sim no)
+		(at 247.65 155.702 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7adfe7ac-e577-4372-9dad-23c269361ec1")
 	)
 	(text "OLED gets a separate I2C interface"
 		(exclude_from_sim no)
@@ -9077,6 +9110,95 @@
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/896b7e04-9267-4f9a-9246-5bddfae4281c"
 					(reference "#PWR0173")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x06")
+		(at 104.14 114.3 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4aa2f82f-4630-4727-a237-4b5a2d3d1913")
+		(property "Reference" "J31"
+			(at 104.14 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 104.14 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+			(at 104.14 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 104.14 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 104.14 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C37208"
+			(at 104.14 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "da3941d5-a8ea-4101-8f93-570a1aff5028")
+		)
+		(pin "1"
+			(uuid "6a5bbffd-94ed-4b10-bc54-a18c0ac7afd7")
+		)
+		(pin "6"
+			(uuid "89e13bd5-3eb1-402f-8a9e-663da63f8d02")
+		)
+		(pin "3"
+			(uuid "033f2464-36a5-454f-a899-d360fe3fc1d3")
+		)
+		(pin "5"
+			(uuid "cc9d617b-439c-42e3-b55c-2c3cf5353344")
+		)
+		(pin "2"
+			(uuid "3e6a4d1f-4e5d-4657-9e23-94c67269994c")
+		)
+		(instances
+			(project "beam_kit_1"
+				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/896b7e04-9267-4f9a-9246-5bddfae4281c"
+					(reference "J31")
 					(unit 1)
 				)
 			)
@@ -12616,6 +12738,94 @@
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/896b7e04-9267-4f9a-9246-5bddfae4281c"
 					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x06")
+		(at 114.3 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bde028fe-f4f3-409a-bb61-e99e529afa55")
+		(property "Reference" "J26"
+			(at 114.3 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "EXP-A"
+			(at 114.3 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+			(at 114.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 114.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 114.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C37208"
+			(at 114.3 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "42061314-2259-43da-a79b-ea7876ccbea5")
+		)
+		(pin "1"
+			(uuid "9bcad87b-b55a-4133-9eb4-8980c3424ab1")
+		)
+		(pin "6"
+			(uuid "c55742b2-b74c-4e36-ab47-0a66c863fa9e")
+		)
+		(pin "3"
+			(uuid "a7861c6e-9880-4cdf-acd2-4b68584a5023")
+		)
+		(pin "5"
+			(uuid "dea81571-10a6-4b90-a02b-d7d5a2787d35")
+		)
+		(pin "2"
+			(uuid "c46843aa-27e7-493a-9c29-4625e3b5856d")
+		)
+		(instances
+			(project "beam_kit_1"
+				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/896b7e04-9267-4f9a-9246-5bddfae4281c"
+					(reference "J26")
 					(unit 1)
 				)
 			)

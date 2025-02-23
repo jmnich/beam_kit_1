@@ -8906,6 +8906,25 @@
 		)
 		(uuid "2696bc48-3a07-4e40-a722-4594c3684c16")
 	)
+	(text_box "headers: \nC37208"
+		(exclude_from_sim no)
+		(at 112.395 45.085 0)
+		(size 11.43 5.715)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "e89054b1-055e-4b82-a4a7-d836f40faf24")
+	)
 	(text "Mirror 'empty' connector"
 		(exclude_from_sim no)
 		(at 39.878 29.718 0)
@@ -10375,7 +10394,7 @@
 		(at 144.78 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
