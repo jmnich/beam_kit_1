@@ -6064,6 +6064,12 @@
 		(uuid "5e096773-69af-4eb6-9ed8-f1fd787cd595")
 	)
 	(junction
+		(at 257.81 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65356f93-df12-400d-befb-cf24c5fa3473")
+	)
+	(junction
 		(at 257.81 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6170,12 +6176,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8fdb65cc-5361-468d-b9c9-5e2ba3befd76")
-	)
-	(junction
-		(at 257.81 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "97556157-136a-4f72-ad28-d326dfecf9e8")
 	)
 	(junction
 		(at 245.11 121.92)
@@ -6472,6 +6472,10 @@
 		(uuid "bd3e636a-da75-447b-abc0-59be006c49eb")
 	)
 	(no_connect
+		(at 259.08 45.72)
+		(uuid "defe519b-03a2-40df-95d4-d58cc86d5075")
+	)
+	(no_connect
 		(at 30.48 105.41)
 		(uuid "f7ad28b8-f8e3-4149-97cf-cfb82043fcc3")
 	)
@@ -6764,16 +6768,6 @@
 			(type default)
 		)
 		(uuid "2565f8cb-f43a-4232-b8fb-9d233cf5dee4")
-	)
-	(wire
-		(pts
-			(xy 280.67 48.26) (xy 270.51 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25c323cf-134a-401b-98f5-0a4f4b9c5a20")
 	)
 	(wire
 		(pts
@@ -7144,6 +7138,16 @@
 			(type default)
 		)
 		(uuid "4ed6e14c-4a68-4ff4-a77a-e30213db0ff4")
+	)
+	(wire
+		(pts
+			(xy 257.81 45.72) (xy 259.08 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5005b863-1f16-41ef-ae87-3ac41f9ce3d6")
 	)
 	(wire
 		(pts
@@ -7647,16 +7651,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 45.72) (xy 270.51 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83138e5d-4d0b-4730-bdb7-e08e8fd05f56")
-	)
-	(wire
-		(pts
 			(xy 167.64 83.82) (xy 175.26 83.82)
 		)
 		(stroke
@@ -8047,16 +8041,6 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 43.18) (xy 280.67 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac8527e3-f898-4a7e-ad0d-634d72bbf7c0")
-	)
-	(wire
-		(pts
 			(xy 271.78 111.76) (xy 271.78 113.03)
 		)
 		(stroke
@@ -8154,16 +8138,6 @@
 			(type default)
 		)
 		(uuid "b131e212-2e11-4b22-80b8-e6465f607a73")
-	)
-	(wire
-		(pts
-			(xy 270.51 45.72) (xy 270.51 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6d56ddc-65bd-444a-a312-3ae409d5a05b")
 	)
 	(wire
 		(pts
@@ -13957,6 +13931,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 232.41 154.94 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7ee9f775-89ad-4b50-9946-d6fa590d6a9d")
+		(property "Reference" "H8"
+			(at 234.95 152.3999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Hole"
+			(at 234.95 154.9399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 232.41 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 232.41 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 232.41 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1370d571-bbf5-4569-92f5-cc664a45b20a")
+		)
+		(instances
+			(project "beam_kit_1"
+				(path "/3a707576-1044-44db-8cf8-deb84fe605c8"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 171.45 21.59 0)
 		(unit 1)
@@ -16330,6 +16371,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 232.41 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dd4edca8-76ce-455a-8f01-770cd6d592eb")
+		(property "Reference" "#PWR0233"
+			(at 232.41 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 232.41 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 232.41 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 232.41 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f9493faf-e825-4622-8e67-b90f99ec422a")
+		)
+		(instances
+			(project "beam_kit_1"
+				(path "/3a707576-1044-44db-8cf8-deb84fe605c8"
+					(reference "#PWR0233")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 144.78 48.26 0)
 		(unit 1)
@@ -17193,72 +17300,6 @@
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8"
 					(reference "#PWR0188")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 280.67 43.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fccb8bcb-4391-452b-ba28-9e6bc590516d")
-		(property "Reference" "#PWR08"
-			(at 280.67 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 280.67 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 280.67 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 280.67 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 280.67 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f81eca80-f70a-4d6f-a281-3c94ebfb7fa0")
-		)
-		(instances
-			(project ""
-				(path "/3a707576-1044-44db-8cf8-deb84fe605c8"
-					(reference "#PWR08")
 					(unit 1)
 				)
 			)
