@@ -6865,6 +6865,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C25190"
+			(at 78.74 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6a4d1c35-7227-4eaa-8fe0-3049955bd8e8")
 		)
@@ -6999,6 +7008,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C21190"
+			(at 40.64 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc13c42f-7fc4-446a-87f5-64a8067d90b7")
 		)
@@ -7060,6 +7078,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 227.33 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C23186"
 			(at 227.33 142.24 0)
 			(effects
 				(font
@@ -8505,6 +8532,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C25190"
+			(at 78.74 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59bd5299-11ef-41e2-bc8b-54a372026a1c")
 		)
@@ -9059,6 +9095,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C21190"
+			(at 152.4 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "22f98230-ae87-442d-8275-9a0e2d94b353")
 		)
@@ -9128,6 +9173,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C23186"
+			(at 58.42 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "674e5fda-4968-4158-abec-4f8e666286fb")
 		)
@@ -9189,6 +9243,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 151.13 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C25804"
 			(at 151.13 63.5 0)
 			(effects
 				(font
@@ -9397,6 +9460,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C22775"
+			(at 219.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b3f60d77-e2e3-431a-af87-d44c74150cd8")
 		)
@@ -9458,6 +9530,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 219.71 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C22775"
 			(at 219.71 72.39 0)
 			(effects
 				(font
@@ -10604,6 +10685,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C25804"
+			(at 50.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b12b7e2a-3e94-4976-add5-2ea261e21832")
 		)
@@ -10731,6 +10821,15 @@
 			)
 		)
 		(property "Description" "16Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"
+			(at 64.77 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C131025"
 			(at 64.77 58.42 0)
 			(effects
 				(font
@@ -11071,6 +11170,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 58.42 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C23186"
 			(at 58.42 129.54 0)
 			(effects
 				(font
@@ -11760,6 +11868,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C22775"
+			(at 266.7 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d3682da2-c2bb-47d8-aec8-93540a2d0aef")
 		)
@@ -12045,6 +12162,15 @@
 			)
 		)
 		(property "Description" "A microcontroller by Raspberry Pi"
+			(at 187.96 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C2040"
 			(at 187.96 105.41 0)
 			(effects
 				(font
@@ -12643,6 +12769,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 266.7 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C22775"
 			(at 266.7 86.36 0)
 			(effects
 				(font

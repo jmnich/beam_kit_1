@@ -13243,6 +13243,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C25804"
+			(at 116.84 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4aa608b-11d1-45bc-bee7-f7c2f8618e12")
 		)

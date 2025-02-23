@@ -2577,6 +2577,19 @@
 				)
 			)
 		)
+		(property "jlc" "C23186"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83fa0b10-5111-440f-bc9e-df04c050ca15")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/35bb5101-2bc6-4b84-84b4-e3f71c5fc9a9/03f3c1c2-736f-4c91-8d47-d6133742eed1")
 		(sheetname "prog")
@@ -2783,6 +2796,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C2040"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "399daf88-2403-4696-800a-adb1c2ede307")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -5759,6 +5785,19 @@
 				)
 			)
 		)
+		(property "jlc" "C455112"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba410458-5758-49e0-991e-af282ff94b9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/068b0987-b1c9-47c8-b32e-252cfc200213/f53c7c30-7968-4aa1-96f2-de37c60ed89a")
 		(sheetname "buttons_LEDs")
 		(sheetfile "buttons_LEDs.kicad_sch")
@@ -6056,6 +6095,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C23186"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8db6fbeb-307a-4c8c-9e72-847f7a093578")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6791,6 +6843,19 @@
 				)
 			)
 		)
+		(property "jlc" "C25804"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cca47483-9d99-4e61-9ec5-f01ec348c3c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/896b7e04-9267-4f9a-9246-5bddfae4281c/017a0c5d-7469-4a54-96e3-8c84642459c8")
 		(sheetname "peripheral")
@@ -7000,6 +7065,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C22775"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e55794c-4d89-4d1f-b2c3-5cc0db33f483")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7470,6 +7548,19 @@
 				)
 			)
 		)
+		(property "jlc" "C455112"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62e17a43-568d-40cb-9510-4ea5cda2bc31")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/068b0987-b1c9-47c8-b32e-252cfc200213/fc7fba68-05fe-4f07-93a9-f45070061e1d")
 		(sheetname "buttons_LEDs")
 		(sheetfile "buttons_LEDs.kicad_sch")
@@ -7767,6 +7858,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C23186"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2878f3f6-0468-4e9b-a2ac-0dd0c43b717a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -9280,6 +9384,19 @@
 				)
 			)
 		)
+		(property "jlc" "C25805"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de6ec7e9-90d0-4887-b1fd-0f5fbeabfc65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/896b7e04-9267-4f9a-9246-5bddfae4281c/d4876187-3551-4536-ab9d-75a82304cb33")
 		(sheetname "peripheral")
@@ -10249,7 +10366,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C22787"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10723,6 +10840,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C25190"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4080d7ee-e4e6-43f8-a64d-bd853055735a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13069,6 +13199,19 @@
 				)
 			)
 		)
+		(property "jlc" "C21190"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "165e0750-ccea-4b7d-8214-f7cb07197445")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/35bb5101-2bc6-4b84-84b4-e3f71c5fc9a9/64179831-317e-400b-8058-1e43746d7f88")
 		(sheetname "prog")
@@ -14669,7 +14812,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17206,6 +17349,19 @@
 				)
 			)
 		)
+		(property "jlc" "C23186"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c62fb71-6644-4d21-8bb0-bca29ffb2b3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/068b0987-b1c9-47c8-b32e-252cfc200213/3958e236-4a4b-43d2-9201-d831c1e5f786")
 		(sheetname "buttons_LEDs")
@@ -17859,6 +18015,19 @@
 				)
 			)
 		)
+		(property "jlc" "C25804"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f12eb1f-22df-40a9-a658-f58e9202cc20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/35bb5101-2bc6-4b84-84b4-e3f71c5fc9a9/b0961c1d-104c-4cc7-afcc-7a07be3e5fe0")
 		(sheetname "prog")
@@ -18355,6 +18524,19 @@
 				)
 			)
 		)
+		(property "jlc" "C25804"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1745493c-bd77-4b6d-a11e-e95f2d77c49e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/896b7e04-9267-4f9a-9246-5bddfae4281c/5e5b9744-a53a-4845-95bf-0552cdbafb13")
 		(sheetname "peripheral")
@@ -18564,6 +18746,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C4190"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6328570f-fbfc-436a-94c9-ebe8e7870f46")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21053,7 +21248,7 @@
 			(uuid "961261fd-b78b-42df-9c7e-0a845f884e82")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.27 360)
+			(at 0 1.27 0)
 			(layer "F.Fab")
 			(uuid "cf66c93e-fda0-4177-b592-3b41a518e625")
 			(effects
@@ -22196,7 +22391,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24714,6 +24909,19 @@
 				)
 			)
 		)
+		(property "jlc" "C25804"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17bc9aa5-47c2-4741-9245-9bc35bdde7ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/35bb5101-2bc6-4b84-84b4-e3f71c5fc9a9/71eb5c5b-60e5-45dc-a8e4-87bcfb3b230d")
 		(sheetname "prog")
@@ -25256,6 +25464,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C22775"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59eaeb68-4c7a-4c15-9ea3-0e96c7d98ddc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -28568,7 +28789,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28790,6 +29011,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C22809"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d66f9424-8b3d-488a-b73f-f63572db5d14")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -29233,6 +29467,19 @@
 				)
 			)
 		)
+		(property "jlc" "C23186"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e0dd2e6-ec7c-4c84-be51-71ec61f40cc3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/068b0987-b1c9-47c8-b32e-252cfc200213/58a741ec-ea13-47d3-99c8-1b862469be63")
 		(sheetname "buttons_LEDs")
@@ -29462,6 +29709,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "059d2d19-7141-45ce-a4db-15f5b0fac98f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C2649498"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3a0f741-dfac-497b-8557-2e4136681b87")
 			(effects
 				(font
 					(size 1 1)
@@ -30417,7 +30677,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32065,7 +32325,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32895,6 +33155,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C4190"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3973eaf-2726-440d-9d0a-01caf93cbf19")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -34420,7 +34693,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R55"
-			(at 2.6 0 360)
+			(at 2.6 0 0)
 			(layer "F.SilkS")
 			(uuid "b6997308-822e-410f-8230-6b008a656738")
 			(effects
@@ -34431,7 +34704,7 @@
 			)
 		)
 		(property "Value" "5k1 1%"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "fbfc97eb-69d6-48ce-bf4c-b42f35baf0f4")
 			(effects
@@ -34476,6 +34749,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C23186"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27dce410-349a-42f8-b44f-4481b6954b34")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -34586,7 +34872,7 @@
 			(uuid "007d05ab-53f6-42a7-bce9-5a9ed22c161f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4329c880-1481-40be-bf89-c26a2c916be5")
 			(effects
@@ -35636,6 +35922,19 @@
 				)
 			)
 		)
+		(property "jlc" "C25804"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1bf4f5b2-9c2f-4da7-a513-60b2db757758")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/639dd621-f93f-4a36-b89e-7e9b320e91fe")
 		(sheetname "Root")
@@ -35845,6 +36144,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C23186"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cf017fc-0fc8-4eaa-be1a-ac44c48a50ad")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -36154,7 +36466,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C23162"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38905,6 +39217,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -38916,6 +39229,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -39295,6 +39609,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C4190"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "729152b5-c75f-47b6-b32a-fb3e4f3e30f4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -40163,6 +40490,19 @@
 				)
 			)
 		)
+		(property "jlc" "C25190"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5082ea54-f2ad-4345-804e-dfaac3324e4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/35bb5101-2bc6-4b84-84b4-e3f71c5fc9a9/489bdce1-c6ef-4591-96f2-41b0560ae4ef")
 		(sheetname "prog")
@@ -40376,7 +40716,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40988,7 +41328,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41210,6 +41550,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C23186"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5275c163-415a-47f1-91ff-f0de11f83c5d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -43787,6 +44140,19 @@
 				)
 			)
 		)
+		(property "jlc" "C22775"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a43a7fa-a7d0-45fc-a68e-23e9389353c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/35bb5101-2bc6-4b84-84b4-e3f71c5fc9a9/81196bdb-e8e2-4846-96b1-bd494d0a4330")
 		(sheetname "prog")
@@ -44609,6 +44975,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C131025"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31b6b06d-f100-47ea-8dd0-c13807097cb6")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -46053,6 +46432,19 @@
 				)
 			)
 		)
+		(property "jlc" "C455112"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a357685a-9100-4590-bca0-88de6524908c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/068b0987-b1c9-47c8-b32e-252cfc200213/ec54c414-88c2-42d5-a93c-5be995f43fd2")
 		(sheetname "buttons_LEDs")
 		(sheetfile "buttons_LEDs.kicad_sch")
@@ -46354,7 +46746,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46580,6 +46972,19 @@
 				)
 			)
 		)
+		(property "jlc" "C22962"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5519dd0d-3849-4368-a1cb-d68dfff69ee5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f99848e2-c114-48ca-84d4-6dd921defc9c/f831f7cd-1407-45dd-a46e-3411261505c3")
 		(sheetname "peripheral2")
@@ -46789,6 +47194,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C25804"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6c5d411-c1bd-4280-8fd9-ae525d5839df")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -48360,6 +48778,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C22775"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2078ecc6-a6f1-4dd7-8141-bb2c02ebf22a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -50636,6 +51067,19 @@
 				)
 			)
 		)
+		(property "jlc" "C25804"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "937139ad-60b2-4ca2-8660-2b936a76ef38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/896b7e04-9267-4f9a-9246-5bddfae4281c/adc1a70b-1534-443b-99d7-0b006912c63a")
 		(sheetname "peripheral")
@@ -50849,7 +51293,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C23162"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52609,7 +53053,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -56245,6 +56689,19 @@
 				)
 			)
 		)
+		(property "jlc" "C84817"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1e541ff-748d-4bea-9761-37cd87bfeade")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT*23*")
 		(path "/896b7e04-9267-4f9a-9246-5bddfae4281c/a429b615-75d8-4263-8a53-0686213c9c6c")
 		(sheetname "peripheral")
@@ -56790,6 +57247,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C22775"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d6a86cfa-0354-4ca0-a249-1797071205b1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -57361,6 +57831,19 @@
 				)
 			)
 		)
+		(property "jlc" "C22775"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "131ea946-7a23-411c-94c4-7cc974d987b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/35bb5101-2bc6-4b84-84b4-e3f71c5fc9a9/ff6b72b2-f8f9-4862-a6ab-7b341b12dc12")
 		(sheetname "prog")
@@ -57753,7 +58236,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57975,6 +58458,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C21190"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63759676-2e63-4c67-85f4-a4ea71199d35")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -58284,6 +58780,19 @@
 				)
 			)
 		)
+		(property "jlc" "C22775"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33206217-3a44-404a-8904-2f0508e9998e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f99848e2-c114-48ca-84d4-6dd921defc9c/ac34c54c-9494-4998-955a-a7f9ce91c22a")
 		(sheetname "peripheral2")
@@ -58437,7 +58946,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R56"
-			(at 2.6 0 360)
+			(at 2.6 0 0)
 			(layer "F.SilkS")
 			(uuid "8326f394-4ba7-4048-b8fd-75151f17cff9")
 			(effects
@@ -58448,7 +58957,7 @@
 			)
 		)
 		(property "Value" "5k1 1%"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "b2bcd9c8-5a74-4fd7-abb5-1a5a69d3d8aa")
 			(effects
@@ -58493,6 +59002,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C23186"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "caa53c68-7721-40bc-8778-bca39851bf5a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -58603,7 +59125,7 @@
 			(uuid "440faba3-788a-49ae-bc33-4604f0d2cbc0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "c0a0defd-65bb-40b0-ad83-7c1e794b938d")
 			(effects
@@ -60264,6 +60786,19 @@
 				)
 			)
 		)
+		(property "jlc" "C22962"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5677cba1-571a-45cf-8fef-e85dbf0293d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f99848e2-c114-48ca-84d4-6dd921defc9c/5b501e23-cf7f-4e5c-8c6f-8499091b96db")
 		(sheetname "peripheral2")
@@ -60473,6 +61008,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C4190"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74e8ce2e-bdf1-40f3-9696-aa0c61e3da40")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -62152,7 +62700,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D43"
-			(at 2.5 0 360)
+			(at 2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "9ecc173c-6c93-4de8-b387-279686668593")
 			(effects
@@ -62163,7 +62711,7 @@
 			)
 		)
 		(property "Value" "LED R"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "76152665-95d5-4f23-8444-3d50c1eaa824")
 			(effects
@@ -62364,7 +62912,7 @@
 			(uuid "4c324552-9123-45df-bb4d-b0c049827f8d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b18a3765-de0c-4b81-8be5-1a2a353e41cc")
 			(effects
@@ -62901,6 +63449,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C25804"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cdf933f9-b4f0-4fb2-9a1b-a35d4449fe8c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -65121,6 +65682,19 @@
 				)
 			)
 		)
+		(property "jlc" "C4190"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b24fb07-6205-461c-9746-53b53d7835c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/896b7e04-9267-4f9a-9246-5bddfae4281c/85a64a61-88f4-4c55-a3cd-045da4cbdc88")
 		(sheetname "peripheral")
@@ -65334,6 +65908,19 @@
 				)
 			)
 		)
+		(property "jlc" "C25804"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26ce40a7-d96e-4ea8-a160-cdc4f0e13c57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/896b7e04-9267-4f9a-9246-5bddfae4281c/748147af-cc8e-44b2-a2f1-870fadbe4db4")
 		(sheetname "peripheral")
@@ -65543,6 +66130,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "jlc" "C25804"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c29aad71-5286-4ce8-8984-bc27f00b4fc3")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -73437,7 +74037,7 @@
 				)
 			)
 		)
-		(property "jlc" ""
+		(property "jlc" "C25804"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -74026,7 +74626,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D42"
-			(at 2.5 0 360)
+			(at 2.5 0 0)
 			(layer "F.SilkS")
 			(uuid "34e05f05-009e-421f-826b-f39286045296")
 			(effects
@@ -74037,7 +74637,7 @@
 			)
 		)
 		(property "Value" "LED R"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "4d2b78e0-9866-438d-911d-aa5585597625")
 			(effects
@@ -74238,7 +74838,7 @@
 			(uuid "085b6738-5334-4257-9359-a6c5f5f2ee62")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "3f570841-4f49-4a58-81b0-a8c735028ea8")
 			(effects
