@@ -9391,6 +9391,17 @@
 		)
 		(uuid "81ef506b-4608-4708-a327-d33d30106e1d")
 	)
+	(label "RUN"
+		(at 116.84 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "852f075a-9dae-43c6-aba7-8877e1b8ad5e")
+	)
 	(label "GPIO2"
 		(at 259.08 101.6 0)
 		(fields_autoplaced yes)
