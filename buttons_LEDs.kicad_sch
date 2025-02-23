@@ -1940,6 +1940,12 @@
 		(uuid "149fd89b-48da-47ba-b289-1d6ba780c734")
 	)
 	(junction
+		(at 46.99 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "271dd04e-758a-430a-a13a-e013baee836f")
+	)
+	(junction
 		(at 144.78 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3041,6 +3047,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 30.48) (xy 46.99 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd91ed10-04e9-4f92-8ca2-c54ca1312aa5")
+	)
+	(wire
+		(pts
 			(xy 226.06 46.99) (xy 226.06 48.26)
 		)
 		(stroke
@@ -3358,6 +3374,16 @@
 			(type default)
 		)
 		(uuid "edd2f7fc-e7b0-47e6-b553-acabbd544622")
+	)
+	(wire
+		(pts
+			(xy 46.99 24.13) (xy 46.99 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1ecfb24-c740-4fa0-a467-4743c468fc5b")
 	)
 	(wire
 		(pts
@@ -7153,6 +7179,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 46.99 24.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e0b4b4b-26b0-47a0-ad4e-54d12dcd421f")
+		(property "Reference" "#PWR0212"
+			(at 46.99 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 46.99 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 46.99 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c0f0d293-7060-4a6c-bb3f-652fa6c71033")
+		)
+		(instances
+			(project "beam_kit_1"
+				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
+					(reference "#PWR0212")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 118.11 26.67 0)
 		(unit 1)
@@ -10802,6 +10893,75 @@
 			(project "beam_kit_1"
 				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
 					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 46.99 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dd7bc6d4-ba53-45db-aa1d-1a3209a636fb")
+		(property "Reference" "R38"
+			(at 48.26 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k 1%"
+			(at 48.26 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 46.99 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 46.99 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 46.99 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "52933306-cca5-4fd4-bf28-2b2e4103b5fe")
+		)
+		(pin "2"
+			(uuid "be95551e-c805-47a0-a2e7-a2d4ee2dda9a")
+		)
+		(instances
+			(project "beam_kit_1"
+				(path "/3a707576-1044-44db-8cf8-deb84fe605c8/068b0987-b1c9-47c8-b32e-252cfc200213"
+					(reference "R38")
 					(unit 1)
 				)
 			)

@@ -645,6 +645,10 @@
     [
       "068b0987-b1c9-47c8-b32e-252cfc200213",
       "buttons_LEDs"
+    ],
+    [
+      "f99848e2-c114-48ca-84d4-6dd921defc9c",
+      "peripheral2"
     ]
   ],
   "text_variables": {}
