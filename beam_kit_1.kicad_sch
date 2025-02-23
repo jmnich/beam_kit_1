@@ -6452,24 +6452,12 @@
 		(uuid "21ce2087-d2fa-4e62-ab79-067bd9000da5")
 	)
 	(no_connect
-		(at 76.2 87.63)
-		(uuid "54514996-2427-4fbe-b8c9-406dd0b9b322")
-	)
-	(no_connect
 		(at 139.7 48.26)
 		(uuid "811a3faf-91f1-456b-9fa8-deb02037ad03")
 	)
 	(no_connect
-		(at 167.64 93.98)
-		(uuid "afcafe42-fe55-4b98-a97f-9c85efa72856")
-	)
-	(no_connect
 		(at 259.08 43.18)
 		(uuid "b7eaa6cc-d865-47ba-9358-6e61cfaeadd8")
-	)
-	(no_connect
-		(at 259.08 48.26)
-		(uuid "bd3e636a-da75-447b-abc0-59be006c49eb")
 	)
 	(no_connect
 		(at 259.08 45.72)
@@ -7258,6 +7246,16 @@
 			(type default)
 		)
 		(uuid "5daa0c9d-b28a-4431-b7f8-ff95caf8eeef")
+	)
+	(wire
+		(pts
+			(xy 167.64 93.98) (xy 175.26 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e44b8de-2c68-4313-bddd-9b3a8c649ebb")
 	)
 	(wire
 		(pts
@@ -8909,6 +8907,17 @@
 		)
 		(uuid "d8ad5af4-b653-4996-b54b-cd96fe3f63d4")
 	)
+	(label "VREF"
+		(at 175.26 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "003d5cd3-dc83-4150-aa5b-e78e3d34d612")
+	)
 	(label "GPIO20"
 		(at 259.08 71.12 0)
 		(fields_autoplaced yes)
@@ -9315,6 +9324,17 @@
 			(justify left bottom)
 		)
 		(uuid "6ea92849-0eb8-41a0-a95a-44d3d4ac1c9a")
+	)
+	(label "VREF"
+		(at 76.2 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7077f8f7-642d-432b-9dac-08dded3b3aa5")
 	)
 	(label "GPIO20"
 		(at 175.26 83.82 0)
@@ -9766,6 +9786,17 @@
 			(justify left bottom)
 		)
 		(uuid "e3971faa-4373-4bce-832b-058e4b18d81c")
+	)
+	(label "VREF"
+		(at 259.08 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e5a52bb5-2faa-4070-b543-26e1bc694599")
 	)
 	(label "GPIO7"
 		(at 109.22 83.82 0)
