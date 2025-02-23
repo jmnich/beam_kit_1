@@ -10704,7 +10704,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "081e4255-b9a9-40ac-a96a-86595fdf2b8d")
 		(property "Reference" "J17"
 			(at 136.652 166.116 0)
@@ -10743,6 +10743,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 138.43 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C495538"
 			(at 138.43 161.29 0)
 			(effects
 				(font
@@ -10948,6 +10957,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 224.79 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 224.79 82.55 0)
 			(effects
 				(font
@@ -11279,6 +11297,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C14663"
+			(at 224.79 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "60848e47-0c59-46fe-a925-2029759c6fee")
 		)
@@ -11340,6 +11367,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 224.79 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 224.79 110.49 0)
 			(effects
 				(font
@@ -12356,7 +12392,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "4de984d3-b820-43e4-9a48-65173db5b5f2")
 		(property "Reference" "J15"
 			(at 125.222 156.464 0)
@@ -12395,6 +12431,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 127 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C495538"
 			(at 127 161.29 0)
 			(effects
 				(font
@@ -12533,6 +12578,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 224.79 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 224.79 62.23 0)
 			(effects
 				(font
@@ -13111,6 +13165,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C14663"
+			(at 224.79 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "507bc390-4af3-4d8d-8439-34ffb393d969")
 		)
@@ -13481,6 +13544,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 224.79 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 224.79 130.81 0)
 			(effects
 				(font
@@ -13946,6 +14018,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C14663"
+			(at 224.79 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea31a43f-a3a5-42f4-933e-44ca5d25074c")
 		)
@@ -14045,7 +14126,7 @@
 				)
 			)
 		)
-		(property "Value" "1A, 30V"
+		(property "Value" "2A, 30V"
 			(at 171.704 24.13 0)
 			(effects
 				(font
@@ -14089,7 +14170,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "DFLS130-7"
+		(property "MPN" "DFLS230LH-7"
 			(at 171.45 21.59 0)
 			(effects
 				(font
@@ -14098,7 +14179,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C150474"
+		(property "jlc" "C2960361"
 			(at 171.45 21.59 0)
 			(effects
 				(font
@@ -14514,6 +14595,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C7501273"
+			(at 153.67 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "92357fe8-fb7b-44b6-b96e-65fd19e3fd56")
 		)
@@ -14581,6 +14671,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 224.79 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 224.79 52.07 0)
 			(effects
 				(font
@@ -15311,6 +15410,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 224.79 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 224.79 120.65 0)
 			(effects
 				(font
@@ -16586,6 +16694,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C14663"
+			(at 224.79 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a7e5e3ae-0d3c-48a2-8473-d4e2e91e95b4")
 		)
@@ -16674,7 +16791,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e7d0f627-0ee1-4677-bdbc-641b7d8e1613")
 		(property "Reference" "J18"
 			(at 136.652 178.816 0)
@@ -16713,6 +16830,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 138.43 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C495538"
 			(at 138.43 173.99 0)
 			(effects
 				(font
@@ -16811,7 +16937,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "ef3a861e-1abe-463d-be51-e04974e6c94a")
 		(property "Reference" "J16"
 			(at 125.222 169.164 0)
@@ -16850,6 +16976,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 127 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C495538"
 			(at 127 173.99 0)
 			(effects
 				(font

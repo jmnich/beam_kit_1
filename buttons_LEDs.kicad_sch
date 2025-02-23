@@ -3556,7 +3556,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 187.96 27.94 0)
 			(effects
 				(font
@@ -3592,7 +3592,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 199.39 26.67 0)
 			(effects
 				(font
@@ -4314,6 +4314,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C49257"
+			(at 57.15 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7bfec433-aa44-40fd-bf02-0b5c5534cfbb")
 		)
@@ -4481,7 +4490,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 147.32 27.94 0)
 			(effects
 				(font
@@ -4517,7 +4526,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 158.75 26.67 0)
 			(effects
 				(font
@@ -4750,6 +4759,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C2286"
+			(at 57.15 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1463a696-e931-4da8-b17c-95a28c1cd589")
 		)
@@ -4883,7 +4901,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 167.64 27.94 0)
 			(effects
 				(font
@@ -4919,7 +4937,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 179.07 26.67 0)
 			(effects
 				(font
@@ -5044,7 +5062,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 167.64 74.93 0)
 			(effects
 				(font
@@ -5080,7 +5098,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 179.07 73.66 0)
 			(effects
 				(font
@@ -5243,7 +5261,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 248.92 27.94 0)
 			(effects
 				(font
@@ -5279,7 +5297,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 260.35 26.67 0)
 			(effects
 				(font
@@ -5514,7 +5532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 66.04 72.39 0)
 			(effects
 				(font
@@ -5533,6 +5551,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 66.04 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 66.04 72.39 0)
 			(effects
 				(font
@@ -5643,7 +5670,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 147.32 74.93 0)
 			(effects
 				(font
@@ -5679,7 +5706,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 158.75 73.66 0)
 			(effects
 				(font
@@ -5808,7 +5835,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 248.92 74.93 0)
 			(effects
 				(font
@@ -5844,7 +5871,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 260.35 73.66 0)
 			(effects
 				(font
@@ -6171,6 +6198,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C492401"
+			(at 35.56 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b2cce386-4cfd-4870-bf83-b6503dbdd542")
 		)
@@ -6399,7 +6435,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 107.696 75.692 0)
 			(effects
 				(font
@@ -6435,7 +6471,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 118.11 73.66 0)
 			(effects
 				(font
@@ -6972,7 +7008,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 228.6 27.94 0)
 			(effects
 				(font
@@ -7008,7 +7044,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 240.03 26.67 0)
 			(effects
 				(font
@@ -7133,7 +7169,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 106.68 27.94 0)
 			(effects
 				(font
@@ -7169,7 +7205,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 118.11 26.67 0)
 			(effects
 				(font
@@ -7238,7 +7274,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 63.5 30.48 0)
 			(effects
 				(font
@@ -7257,6 +7293,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 63.5 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 63.5 30.48 0)
 			(effects
 				(font
@@ -8786,6 +8831,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C2286"
+			(at 45.72 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e626e42-14a1-4a51-8e48-21bb3f5503d0")
 		)
@@ -9049,7 +9103,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 208.28 74.93 0)
 			(effects
 				(font
@@ -9085,7 +9139,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 219.71 73.66 0)
 			(effects
 				(font
@@ -9412,6 +9466,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C49257"
+			(at 106.68 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca9e9872-4e52-47e5-a4eb-f4bd88197f59")
 		)
@@ -9484,6 +9547,15 @@
 		)
 		(property "LED" "C2286"
 			(at 68.58 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C2286"
+			(at 68.58 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9654,7 +9726,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 127 27.94 0)
 			(effects
 				(font
@@ -9690,7 +9762,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 138.43 26.67 0)
 			(effects
 				(font
@@ -9945,7 +10017,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 228.6 74.93 0)
 			(effects
 				(font
@@ -9981,7 +10053,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 240.03 73.66 0)
 			(effects
 				(font
@@ -10171,7 +10243,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 208.28 27.94 0)
 			(effects
 				(font
@@ -10207,7 +10279,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 219.71 26.67 0)
 			(effects
 				(font
@@ -10527,7 +10599,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 187.96 74.93 0)
 			(effects
 				(font
@@ -10563,7 +10635,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 199.39 73.66 0)
 			(effects
 				(font
@@ -11184,7 +11256,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n 50V"
+		(property "Value" "100n 16V"
 			(at 127 74.93 0)
 			(effects
 				(font
@@ -11220,7 +11292,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C307331"
+		(property "jlc" "C1525"
 			(at 138.43 73.66 0)
 			(effects
 				(font

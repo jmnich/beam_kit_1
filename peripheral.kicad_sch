@@ -7707,7 +7707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 158.75 173.99 0)
 			(effects
 				(font
@@ -8116,7 +8116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 180.34 104.14 0)
 			(effects
 				(font
@@ -8135,6 +8135,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 180.34 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 180.34 104.14 0)
 			(effects
 				(font
@@ -8407,6 +8416,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C492401"
+			(at 207.01 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c7c2c494-c0ab-4464-a860-09046376f36f")
 		)
@@ -8601,7 +8619,7 @@
 				)
 			)
 		)
-		(property "Value" "1A, 30V"
+		(property "Value" "2A, 30V"
 			(at 139.446 157.48 0)
 			(effects
 				(font
@@ -8645,7 +8663,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "DFLS130-7"
+		(property "MPN" "DFLS230LH-7"
 			(at 139.7 160.02 0)
 			(effects
 				(font
@@ -8654,7 +8672,7 @@
 				(hide yes)
 			)
 		)
-		(property "jlc" "C150474"
+		(property "jlc" "C2960361"
 			(at 139.7 160.02 0)
 			(effects
 				(font
@@ -8723,6 +8741,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 41.91 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C92271"
 			(at 41.91 114.3 0)
 			(effects
 				(font
@@ -9340,7 +9367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 106.68 180.34 0)
 			(effects
 				(font
@@ -9552,7 +9579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 204.47 134.62 0)
 			(effects
 				(font
@@ -9571,6 +9598,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 204.47 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C15849"
 			(at 204.47 134.62 0)
 			(effects
 				(font
@@ -9776,7 +9812,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 267.97 29.21 0)
 			(effects
 				(font
@@ -9854,7 +9890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 278.13 111.76 0)
 			(effects
 				(font
@@ -10395,7 +10431,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 218.44 59.69 0)
 			(effects
 				(font
@@ -10414,6 +10450,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 218.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 218.44 59.69 0)
 			(effects
 				(font
@@ -10529,7 +10574,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 224.79 59.69 0)
 			(effects
 				(font
@@ -10913,6 +10958,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 166.37 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C492401"
 			(at 166.37 29.21 0)
 			(effects
 				(font
@@ -11508,7 +11562,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 97.79 34.29 0)
 			(effects
 				(font
@@ -12141,7 +12195,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 255.27 69.85 0)
 			(effects
 				(font
@@ -12160,6 +12214,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.27 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 255.27 69.85 0)
 			(effects
 				(font
@@ -12810,6 +12873,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C2718488"
+			(at 91.44 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "ec739ca0-992c-4150-9e16-8047f305f119")
 		)
@@ -13157,7 +13229,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 40.64 101.6 0)
 			(effects
 				(font
@@ -13235,7 +13307,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 60.96 158.75 0)
 			(effects
 				(font
@@ -13254,6 +13326,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 60.96 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 60.96 158.75 0)
 			(effects
 				(font
@@ -13304,7 +13385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 144.78 181.61 0)
 			(effects
 				(font
@@ -13438,7 +13519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 265.43 111.76 0)
 			(effects
 				(font
@@ -13457,6 +13538,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 265.43 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C14663"
 			(at 265.43 111.76 0)
 			(effects
 				(font
@@ -13734,7 +13824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 144.78 167.64 0)
 			(effects
 				(font
@@ -14142,6 +14232,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C49257"
+			(at 31.75 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e954aff7-d6ad-49c5-995c-09adaf1c9dc3")
 		)
@@ -14343,6 +14442,15 @@
 				(hide yes)
 			)
 		)
+		(property "jlc" "C2718488"
+			(at 241.3 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "2bec029b-bc80-475c-a8da-bda7fc9512fc")
 		)
@@ -14410,6 +14518,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 166.37 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "jlc" "C492401"
 			(at 166.37 72.39 0)
 			(effects
 				(font
