@@ -16,9 +16,9 @@ Open Source educational eval kit built around Raspberry Pi Pico. Designed for Ra
 - NRF24 socket
 - LEDs, knob and buttons
 
-![No image](images/photo1.png)
-![No image](images/photo2.png)
-![No image](images/photo3.png)
-![No image](images/photo4.png)
+![No image](images/photo1.jpg)
+![No image](images/photo2.jpg)
+![No image](images/photo3.jpg)
+![No image](images/photo4.jpg)
 ![No image](images/screenshot1.png)
 ![No image](images/screenshot2.png)
